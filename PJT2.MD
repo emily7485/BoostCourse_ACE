@@ -103,4 +103,17 @@
 - 컨트롤 객체에서 특정 이벤트가 발생하면, 미리 지정해 둔 타겟의 액션을 호출
 
 - [x] 07. Gesture Recognizer
+1. 제스처 인식기에 대해 알아봅니다.
+- Gesture Recognizer
+ - 여러 제스처 관련 이벤트를 인식
+ - 특정 제스처 이벤트가 일어날 때 마다 각 타깃에 맞는 액션 메시지를 보내어 제스처 관련 이벤트를 처리
+2. UIGestureRecognizer의 하위클래스를 통해 어떤 제스처를 인식할 수 있는지 알아봅니다.
+- UITapGestureRecognizer : 싱글탭 또는 멀티탭 제스처
+- UIPinchGestureRecognizer : 핀치(Pinch) 제스처
+- UIRotationGestureRecognizer : 회전 제스처
+- UISwipeGestureRecognizer : 스와이프(swipe) 제스처
+- UIPanGestureRecognizer : 드래그(drag) 제스처
+- UIScreenEdgePanGestureRecognizer : 화면 가장자리 드래그 제스처
+- UILongPressGestureRecognizer : 롱프레스(long-press) 제스처
+
 - [x] 08. Summary
