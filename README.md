@@ -25,12 +25,20 @@ iOS Developer
 - [x] 00. Hello!
 - [x] 01. Human Interface Guidelines
 - [x] 02. 화면의 전환
-- [x] 03.뷰의 상태변화 감지
+- [x] 03. 뷰의 상태변화 감지
 - [x] 04. Delegation
 - [x] 05. Singleton
 - [x] 06. Target-Action
 - [x] 07. Gesture Recognizer
 - [x] 08. Summary
+***
+### 3. 기상정보 애플리케이션
+- [ ] 00. Hello!
+- [ ] 01. 테이블뷰
+- [ ] 02. 뷰의 재사용
+- [ ] 03. 스토리보드 세그
+- [ ] 04. JSON 다루기
+- [ ] 05. Summary
 
 
 
