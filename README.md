@@ -26,11 +26,11 @@ iOS Developer
 - [x] 01. Human Interface Guidelines
 - [x] 02. 화면의 전환
 - [x] 03.뷰의 상태변화 감지
-- [ ] 04. Delegation
-- [ ] 05. Singleton
-- [ ] 06. Target-Action
-- [ ] 07. Gesture Recognizer
-- [ ] 08. Summary
+- [x] 04. Delegation
+- [x] 05. Singleton
+- [x] 06. Target-Action
+- [x] 07. Gesture Recognizer
+- [x] 08. Summary
 
 
 
