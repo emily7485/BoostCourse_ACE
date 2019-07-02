@@ -1,44 +1,113 @@
 # BoostCourse
 
-### [BOOSTCOURSE](http://www.edwith.org/boostcourse-ios) 수강일지
+### [BOOSTCOURSE](https://www.edwith.org/boostcourse-web/) 수강일지
 ***
 ### 오리엔테이션
 ```
-iOS Developer
+Web Programming
 ```
-- [x] 01. Hello IOS Developer!
-- [x] 02. 개발 이야기
-- [x] 03. 코스 시작에 앞서...
+- [x] 00. 헬로우, 부스트코스
+- [x] 01. 웹 프로그래밍 코스란?
+- [x] 02. 이 코스를 개발한 전문가들
+- [x] 03. 부스트코스 학습 및 리뷰 가이드
 - [x] 04. 시작합니다!
 ***
-### 1. 음원 재생기 애플리케이션
 
-- [x] 00. Hello!
-- [x] 01. 시작 그리고 Xcode
-- [x] 02. 애플리케이션 만들기
-- [x] 03. Foundation과 UIKit 그리고 Cocoa Touch
-- [x] 04. 오토 레이아웃
-- [x] 05. iOS의 View 체계
-- [x] 06. MVC
-***
-### 2. 회원가입 화면 구현
-- [x] 00. Hello!
-- [x] 01. Human Interface Guidelines
-- [x] 02. 화면의 전환
-- [x] 03. 뷰의 상태변화 감지
-- [x] 04. Delegation
-- [x] 05. Singleton
-- [x] 06. Target-Action
-- [x] 07. Gesture Recognizer
-- [x] 08. Summary
-***
-### 3. 기상정보 애플리케이션
+### 1. 웹 프로그래밍 기초
+
 - [ ] 00. Hello!
-- [ ] 01. 테이블뷰
-- [ ] 02. 뷰의 재사용
-- [ ] 03. 스토리보드 세그
-- [ ] 04. JSON 다루기
-- [ ] 05. Summary
+- [ ] 01. WEB개발의 이해 - FE/BE
+- [ ] 02. HTML - FE
+- [ ] 03. CSS - FE
+- [ ] 04. 개발환경 설정 - BE
+- [ ] 05. Servlet - BE
+- [ ] 06. Summary
+
+- [ ] PJT 1-1
+- [ ] PJT 1-2
+
+***
+
+### 2. DB 연결 웹 앱
+- [ ] 00. Hello!
+- [ ] 01. JavaScript - FE
+- [ ] 02. WEB UI 개발 - FE
+- [ ] 03. JSP - BE
+- [ ] 04. redirect & forward - BE
+- [ ] 05. scope - BE
+- [ ] 06. JSTL & EL - BE
+- [ ] 07. MySQL - BE
+- [ ] 08. SQL - BE
+- [ ] 09. MARVEN - BE
+- [ ] 10. JDBC - BE
+- [ ] 11. WEB API - BE
+- [ ] 12. Summary
+
+- [ ] PJT 2-1
+- [ ] PJT 2-2
+
+***
+
+### 3. 웹 앱 개발:예약서비스 1/4
+- [ ] 00. Hello!
+- [ ] 01. JavaScript - FE
+- [ ] 02. DOM API 활용 - FE
+- [ ] 03. Ajax - FE
+- [ ] 04. Web Animation - FE
+- [ ] 05. WEB UI - FE
+- [ ] 06. Tab UI 실습 - FE
+- [ ] 07. Spring Core - BE
+- [ ] 08. Spring JDBC - BE
+- [ ] 09. Spring MVC - BE
+- [ ] 10. 레이어드 아키텍처 - BE
+- [ ] 11. Controller - BE
+- [ ] 12. Summary
+
+- [ ] PJT 3-1
+- [ ] PJT 3-2
+
+***
+
+### 4. 웹 앱 개발:예약서비스 2/4
+- [ ] 00. Hello!
+- [ ] 01. 객체지향 Java Script구현 - FE
+- [ ] 02. 라이브러리 활용과 클린코드 - FE
+- [ ] 03. Summary
+
+- [ ] PJT 4-1
+- [ ] PJT 4-2
+
+***
+
+### 5. 웹 앱 개발:예약서비스 3/4
+- [ ] 00. Hello!
+- [ ] 01. WEB개발의 이해 - FE/BE
+- [ ] 02. HTML - FE
+- [ ] 03. CSS - FE
+- [ ] 04. 개발환경 설정 - BE
+- [ ] 05. Servlet - BE
+- [ ] 06. Summary
+
+- [ ] PJT 5-1
+- [ ] PJT 5-2
+
+***
+
+### 6. 웹 앱 개발:예약서비스 4/4
+- [ ] 00. Hello!
+- [ ] 01. WEB개발의 이해 - FE/BE
+- [ ] 02. HTML - FE
+- [ ] 03. CSS - FE
+- [ ] 04. 개발환경 설정 - BE
+- [ ] 05. Servlet - BE
+- [ ] 06. Summary
+
+- [ ] PJT 6-1
+- [ ] PJT 6-2
+
+***
+
+
 
 
 
